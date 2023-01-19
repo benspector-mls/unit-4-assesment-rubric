@@ -1,7 +1,8 @@
 # Assessment Grading Rubric
 ## Short Response Section
 ### Technical Score
-* **3**: A score of 3 indicates that a response is technically sound, accounts for edge cases, and uses the correct vocabulary.
+* **3**: A score of 3 indicates that a response is technically sound, accounts for edge cases, and uses the correct vocabulary, and all parts of the question have been answered.
+
 * **2**: A score of 2 indicates that, generally, your response is technically sound but may be missing some detail or is being communicated with overly general language.
 * **1**: A score of 1 indicates that you have left out or incorrectly communicated an important concept. A score of 1 indicates that you have a significant knowledge gap that you must revisit.
 * **0**: Questions receive a 0 if they are left blank or are completely incorrect, technically.
