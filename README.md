@@ -7,7 +7,7 @@
 * **0**: Questions receive a 0 if they are left blank or are completely incorrect, technically.
 
 ### Writing Score
-* **3**: A score of 3 indicates that your communication is clear, concise, and typo/grammar error free. In a word, 3 stands for _flawless_.
+* **3**: A score of 3 indicates that your communication is clear, concise, and typo/grammar error free. In a word, 3 stands for _flawless_. If code snippet is required, it must follow all convention, and have correct syntax.
 * **2**: A response would receive a 2 if there are minor typos/grammar errors OR if a response is long-winded or slightly unclear.
 * **1**: A response receives a 1 if there are multiple or major spelling/grammer errors OR if your response was so unclear that it is difficult to infer your main idea.
 * **0**: Questions receive a 0 if they are left blank or answered with disrespectfully low effort.
