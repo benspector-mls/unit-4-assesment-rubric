@@ -26,6 +26,16 @@
 * **1**: Your code has multiple style errors, poorly named variables, or minor syntax errors. 
 * **0**: Your code has major syntax errors.
 
+### Design Score
+* **3**: Your design has all of the required features implemented cleanly, your design's features are thoroughly tested, and your code is free of errors (or mostly free of errors).
+* **2**: Your design has all of the required features, but your code is not tested and/or contains a minor error(s).
+* **1**: Your design does not implement a required feature, is not tested and contains major errors.
+* **0**: Your design does not implement most of the required features.
+
+Above-and-beyond features:
+* Code handles failure well (bad inputs to methods are handled gracefully)
+* Items are represented as a class/object rather than just a string
+* There are additional features beyond what was required (removing AND marking as complete, prioritization of items, printing out the contents, etc...)
 
 ## Total Possible Points on Unit 4 Assessment
 * **Design Challange:** 6 Point (this question has a design score of 3 and Code style of 3 to be summed up)
